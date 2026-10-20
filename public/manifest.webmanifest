@@ -1,14 +1,13 @@
 {
   "id": "/",
-  "name": "NavaMind — Podcast Intelligence Studio",
-  "short_name": "NavaMind",
-  "description": "Mobile-first podcast transcription, summarization, bilingual translation, and personal knowledge library for Persian listeners.",
+  "name": "Local Backend Forge",
+  "short_name": "Forge",
+  "description": "Intelligent Backend Builder & Multi-Runtime Orchestrator",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "orientation": "portrait-primary",
-  "theme_color": "#080A0F",
-  "background_color": "#080A0F",
+  "theme_color": "#0B0F17",
+  "background_color": "#0B0F17",
   "icons": [
     {
       "src": "/icon-192.svg",

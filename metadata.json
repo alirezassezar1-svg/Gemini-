@@ -1,9 +1,7 @@
 {
-  "name": "NavaMind — Podcast Intelligence Studio",
-  "description": "Mobile-first Persian and bilingual podcast intelligence studio for iPhone and web: Castbox integration, high-precision transcription, multi-mode AI summarization, timestamped citations, interactive flashcards, and IndexedDB personal knowledge base.",
-  "requestFramePermissions": [
-    "microphone"
-  ],
+  "name": "Apex AI Studio — Image & Video Production",
+  "description": "Professional high-volume AI image & video production studio powered by Google Gemini and Veo models with automated pipeline scheduling, intelligent fallback, and FFmpeg timeline assembly.",
+  "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
   ]

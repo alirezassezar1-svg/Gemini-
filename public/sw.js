@@ -1,4 +1,4 @@
-const CACHE_NAME = 'navamind-cache-v1';
+const CACHE_NAME = 'forge-cache-v1';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
