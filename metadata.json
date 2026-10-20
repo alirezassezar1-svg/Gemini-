@@ -1,0 +1,10 @@
+{
+  "name": "NavaMind — Podcast Intelligence Studio",
+  "description": "Mobile-first Persian and bilingual podcast intelligence studio for iPhone and web: Castbox integration, high-precision transcription, multi-mode AI summarization, timestamped citations, interactive flashcards, and IndexedDB personal knowledge base.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

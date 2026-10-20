@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "NavaMind — Podcast Intelligence Studio",
+  "short_name": "NavaMind",
+  "description": "Mobile-first podcast transcription, summarization, bilingual translation, and personal knowledge library for Persian listeners.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#080A0F",
+  "background_color": "#080A0F",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
